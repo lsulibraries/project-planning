@@ -11,6 +11,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Jason
 - LDL Solr re-indexing / re-architecting
   - Jason
+  - Mike
 - DSL Broadway
   - Jason
 - DSL CCT migration
@@ -26,6 +27,10 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Mike
 - DigitalCommons? - Migrating Grad school theses metadata to Library catalog (2-3 weeks)
   - Garrett
+  - Mike  
 - Library Website - Migrating new eTextbooks to Library drupal (1-2 month)
   - Garrett
   - Dave
+  - Mike (consult)
+- LDL policies and documentation
+  - Mike
