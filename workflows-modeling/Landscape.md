@@ -19,13 +19,13 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Dave
   - Mike
   - ?
-- CWBR - Last 40 CWBR items to migrate
+- CWBR - Last 40 CWBR items to migrate  (30 hours)
   - Garrett / Tom
-- LDL - Book filesizes too large
+- LDL - Book filesizes too large (unknowable)
   - Garrett
   - Mike
-- DigitalCommons? - Migrating Grad school theses metadata to Library catalog
+- DigitalCommons? - Migrating Grad school theses metadata to Library catalog (2-3 weeks)
   - Garrett
-- Library Website - Migrating new eTextbooks to Library drupal
+- Library Website - Migrating new eTextbooks to Library drupal (1-2 month)
   - Garrett
   - Dave
