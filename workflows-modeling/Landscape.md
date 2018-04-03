@@ -15,7 +15,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Jason
 - DSL CCT migration
   - Jason
- - Systems - Library Catalog Implementation
+- Systems - Library Catalog Implementation
   - Dave
   - Mike
   - ?
