@@ -1,0 +1,60 @@
+SOLO WORK
+
+  I think I do my best solo work when I can rely on close communication with my supervisor.
+    I need the agency to work independently and to feel comfortable asking for help if I'm stuck.
+
+
+GROUP WORK
+
+  Group work with a rich history of comments can be good, but usually is overwhelming.
+
+  Tasks involving hand-offs should be assigned all involved parties at sprint planning, and the expectations for each indivudal made as clear as possible.
+
+  Tasks with significant history located outside of one system should be linked, and that history summarized by either the individual creating the link, or with the most in depth knowledge of the tasks' history.
+
+
+INPUTS (Recieve Work, Proj Req, Tasks, Comms)
+
+Recieving Work/Tasks:
+
+  Assignment is self directed for the most part (with input from supervisor).
+
+  Ideally, it would be easy to find "priority tasks" for the current sprint that either meet my skill level or a personal development goals.
+
+  I also want a strong sense of direction when choosing issues to include in a sprint.
+
+
+Project/Sprint Requirements:
+
+  I don't like changing gears when I'm focused on a particular problem, especially significant changes to requirements late into a project or leading up to a review.
+
+  Meta-work assignments should change with the sprint and be included in sprint planning. Unexpected work should not emerge at the very end of a sprint or close to a review. It can (and will) happen, but it should be avoided if possible.
+
+
+Communication:
+  I'm really comfortable with the communication I recieved on a daily basis. I want it to stay the same.
+
+  Our meeting communication needs to improve greatly, or the format changed significantly.
+
+OUTPUTS (Records, Notes, Documentation, Comms):
+
+Records:
+
+  The thoroughness of our records should fit the task. Some things should be more meticulous than others. Maybe we need detailed policies, but common sense is probobally the best guide.
+
+Notes:
+
+  I have found my colleague's notes to be useful, and if I have questions, I usually ask. (maybe it would be good, to save these questions for a particular time/meeting/sprint day).
+
+//Documentation:
+
+I see my responsibility for documentatin to be primarily composed of documentation related to commit messages presented at review and release.
+
+
+Communication:
+
+My 'after-task' communication requirements are typically met by the process that occurs when changes are pushed or released to a given product.
+
+
+Legend for my Workflow graph
+Blue is Me, Red is my Supervisor, Brown is team member/s, Orange is Product Owner, Green is Scrummaster.
