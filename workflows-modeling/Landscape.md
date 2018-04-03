@@ -19,3 +19,13 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Dave
   - Mike
   - ?
+- CWBR - Last 40 CWBR items to migrate
+  - Garrett / Tom
+- LDL - Book filesizes too large
+  - Garrett
+  - Mike
+- DigitalCommons? - Migrating Grad school theses metadata to Library catalog
+  - Garrett
+- Library Website - Migrating new eTextbooks to Library drupal
+  - Garrett
+  - Dave
