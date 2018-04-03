@@ -41,7 +41,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Mike
   - Cara
   - Tracking: [Google Drive folder](https://drive.google.com/drive/folders/1Nqq79kY6_JWg-b0VJcOKTdoiWTZKaXOQ)
-- - Digital Projects: Pintado Papers
+- Digital Projects: Pintado Papers
   - Cara
   - Gabe
   - Jenny
@@ -49,7 +49,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Peripheral: Lauren
   - Tracking: 
     - Project history document: R:\DigitalServices\Projects\Surveys\"Pintado Papers Digital Collection Project History.docx"
-    - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs
+    - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs)
 - Digital Projects: LSU Photographs 2018 Addition
   - Cara
   - Scott
