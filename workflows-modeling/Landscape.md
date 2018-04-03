@@ -34,3 +34,42 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Mike (consult)
 - LDL policies and documentation
   - Mike
+- LDL: Metadata Guidelines
+  - Cara
+  - Tracking: [Trello card on Product Backlog board](https://trello.com/c/Hpc7lw33)
+- Presentation: Digital Initiatives Symposium (presentation date 4/24)
+  - Mike
+  - Cara
+  - Tracking: [Google Drive folder](https://drive.google.com/drive/folders/1Nqq79kY6_JWg-b0VJcOKTdoiWTZKaXOQ)
+- - Digital Projects: Pintado Papers
+  - Cara
+  - Gabe
+  - Jenny
+  - Kenny
+  - Peripheral: Lauren
+  - Tracking: 
+    - Project history document: R:\DigitalServices\Projects\Surveys\"Pintado Papers Digital Collection Project History.docx"
+    - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs
+- Digital Projects: LSU Photographs 2018 Addition
+  - Cara
+  - Scott
+  - Gabe
+  - Michelle
+  - Jenny
+  - Peripheral: Hans
+  - Tracking: 
+    - [Project history document on Cara's Google Drive](https://goo.gl/HvTQfo)
+    - [Trello card on Collection Management board](https://trello.com/c/MszbRBhu)
+- Digital Projects: Sheet Music Database 
+  - Cara
+  - Scott
+  - Mikel
+  - Gabe
+  - Peripheral: Lois
+  - Potential: Amanda Moak
+  - Tracking: [Trello card on ETL board (old)](https://trello.com/c/RunWQ4jy)
+- Collection Management: Louisiana Purchase 
+  - Cara
+  - Scott
+  - Christina R. = immediate stakeholder
+  - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)
