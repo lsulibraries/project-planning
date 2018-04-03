@@ -34,6 +34,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Mike (consult)
 - LDL policies and documentation
   - Mike
+  - Scott
 - LDL: Metadata Guidelines
   - Cara
   - Tracking: [Trello card on Product Backlog board](https://trello.com/c/Hpc7lw33)
