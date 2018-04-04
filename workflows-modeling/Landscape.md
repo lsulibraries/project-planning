@@ -4,18 +4,22 @@ It will serve as a foundation for an upcoming unit-wide monthly planning session
 
 Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be *Collection Management*, *Policy Development*, *Documentation*, or similar- for now, it's up to you.
 
-- LDL Roles
+- LDL Roles project
   - Jason
   - Will
 - LDL Release 0.9.0
+  - Deadline: 2018-04-07
   - Jason
   - Kyle
 - LDL Solr re-indexing / re-architecting
+  - Estimate: 1 week
   - Jason
   - Mike
-- DSL Broadway
+- DSL Broadway support
+  - Timeline: ongoing
   - Jason
 - DSL CCT migration
+  - Timeline: done soon (no further action reqd from me)
   - Jason
 - Systems - Library Catalog Implementation
   - Dave
@@ -36,6 +40,7 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
 - LDL policies and documentation
   - Mike
   - Scott
+  - Jason
 - LDL: Metadata Guidelines (goal: complete for LDC meeting, May 16)
   - Cara
   - Tracking: [Trello card on Product Backlog board](https://trello.com/c/Hpc7lw33)
@@ -49,7 +54,7 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Jenny
   - Kenny
   - Peripheral: Lauren
-  - Tracking: 
+  - Tracking:
     - Project history document: R:\DigitalServices\Projects\Surveys\"Pintado Papers Digital Collection Project History.docx"
     - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs)
 - Digital Projects: LSU Photographs 2018 Addition
@@ -59,10 +64,10 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Michelle
   - Jenny
   - Peripheral: Hans
-  - Tracking: 
+  - Tracking:
     - [Project history document on Cara's Google Drive](https://goo.gl/HvTQfo)
     - [Trello card on Collection Management board](https://trello.com/c/MszbRBhu)
-- Digital Projects: Sheet Music Database 
+- Digital Projects: Sheet Music Database
   - Cara
   - Scott
   - Mikel
@@ -70,12 +75,21 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Peripheral: Lois
   - Potential: Amanda Moak
   - Tracking: [Trello card on ETL board (old)](https://trello.com/c/RunWQ4jy)
-- Collection Management: Louisiana Purchase 
+- Collection Management: Louisiana Purchase
   - Cara
   - Scott
   - Christina R. = immediate stakeholder
   - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)\
 - Digtial Collection Mangement: Digital Collection Development Policy
-  - Scott 
+  - Scott
 - LDL UI / Libraries Site UI / Digital Projects UI
   - Kyle
+- LDL/DSL Systems administration
+  - Timeline: ongoing
+  - Jason
+- LDL/DSL Release management
+  - Timeline: ongoing
+  - Jason
+- LDL/DSL/Libraries Disaster recovery
+  - Timeline: ongoing
+  - Jason
