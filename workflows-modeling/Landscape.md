@@ -9,6 +9,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Will
 - LDL Release 0.9.0
   - Jason
+  - Kyle
 - LDL Solr re-indexing / re-architecting
   - Jason
   - Mike
