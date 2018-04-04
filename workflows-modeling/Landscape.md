@@ -76,4 +76,5 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)\
 - Digtial Collection Mangement: Digital Collection Development Policy
   - Scott 
- 
+- LDL UI / Libraries Site UI / Digital Projects UI
+  - Kyle
