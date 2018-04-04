@@ -36,14 +36,14 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
 - LDL policies and documentation
   - Mike
   - Scott
-- LDL: Metadata Guidelines
+- LDL: Metadata Guidelines (goal: complete for LDC meeting, May 16)
   - Cara
   - Tracking: [Trello card on Product Backlog board](https://trello.com/c/Hpc7lw33)
 - Presentation: Digital Initiatives Symposium (presentation date 4/24)
   - Mike
   - Cara
   - Tracking: [Google Drive folder](https://drive.google.com/drive/folders/1Nqq79kY6_JWg-b0VJcOKTdoiWTZKaXOQ)
-- Digital Projects: Pintado Papers
+- Digital Projects: Pintado Papers (goal was March 2018; complete ASAP)
   - Cara
   - Gabe
   - Jenny
