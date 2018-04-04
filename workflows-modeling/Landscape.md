@@ -49,7 +49,7 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Jenny
   - Kenny
   - Peripheral: Lauren
-  - Tracking: 
+  - Tracking:
     - Project history document: R:\DigitalServices\Projects\Surveys\"Pintado Papers Digital Collection Project History.docx"
     - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs)
 - Digital Projects: LSU Photographs 2018 Addition
@@ -59,10 +59,10 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Michelle
   - Jenny
   - Peripheral: Hans
-  - Tracking: 
+  - Tracking:
     - [Project history document on Cara's Google Drive](https://goo.gl/HvTQfo)
     - [Trello card on Collection Management board](https://trello.com/c/MszbRBhu)
-- Digital Projects: Sheet Music Database 
+- Digital Projects: Sheet Music Database
   - Cara
   - Scott
   - Mikel
@@ -70,12 +70,12 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
   - Peripheral: Lois
   - Potential: Amanda Moak
   - Tracking: [Trello card on ETL board (old)](https://trello.com/c/RunWQ4jy)
-- Collection Management: Louisiana Purchase 
+- Collection Management: Louisiana Purchase
   - Cara
   - Scott
   - Christina R. = immediate stakeholder
   - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)\
 - Digtial Collection Mangement: Digital Collection Development Policy
-  - Scott 
+  - Scott
 - LDL UI / Libraries Site UI / Digital Projects UI
   - Kyle
