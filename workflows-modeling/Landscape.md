@@ -73,7 +73,7 @@ As you will see in the initial stub, projects are qualified by *LDL*, or *DSL* f
   - Cara
   - Scott
   - Christina R. = immediate stakeholder
-  - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)
- - Digtial Collection Mangement: Digital Collection Development Policy
+  - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)\
+- Digtial Collection Mangement: Digital Collection Development Policy
   - Scott 
  
