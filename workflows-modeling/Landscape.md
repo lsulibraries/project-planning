@@ -5,51 +5,75 @@ It will serve as a foundation for an upcoming unit-wide monthly planning session
 Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be *Collection Management*, *Policy Development*, *Documentation*, or similar- for now, it's up to you.
 
 - LDL Roles project
-  - Jason
+  - Estimate: 1 month
+  - Jason (consulting)
   - Will
+  - Cara (Owner, consulting)
 - LDL Release 0.9.0
   - Deadline: 2018-04-07
   - Jason
   - Kyle
+  - Scott (Owner)
 - LDL Solr re-indexing / re-architecting
   - Estimate: 1 week
   - Jason
-  - Mike
+  - Mike (Owner)
 - DSL Broadway support
   - Timeline: ongoing
   - Jason
+  - Lauren/Scott (Owners)
 - DSL CCT migration
   - Timeline: done soon (no further action reqd from me)
   - Jason
+  - Lauren (Owner)
 - Systems - Library Catalog Implementation
-  - Dave
-  - Mike
-  - ?
-- CWBR - Last 40 CWBR items to migrate  (30 hours)
-  - Garrett / Tom
-- LDL - Book filesizes too large (unknowable)
+  - Timeline: June 2018
+  - Dave (Owner)
+  - Mike (consulting)
+  - Theming and programming 
+- CWBR - Last 40 CWBR items to migrate  
+  - Timeline: (30 hours)
+  - Garrett 
+  - Tom/Sigrid (Owner)
+- LDL - Book filesizes too large 
+  - Timeline: weeks to months
   - Garrett
   - Mike
-- DigitalCommons? - Migrating Grad school theses metadata to Library catalog (2-3 weeks)
+  - Cara (Owner)
+  - Scott (Owner)
+  - Gabe (consulting)
+  - Jason (future)
+- Digital Commons - Migrating Grad school theses metadata to Library catalog 
+  - Timeline: 2-3 weeks
   - Garrett
-  - Mike  
-- Library Website - Migrating new eTextbooks to Library drupal (1-2 month)
+  - Mike (Owner)
+  - Cataloging
+- Library Website - Migrating new eTextbooks to Library drupal 
+  - Timeline: 1-2 month
   - Garrett
   - Dave
   - Mike (consult)
-- LDL policies and documentation
+  - Emily (Owner)
+- Policies and documentation
+  - Timeline: ongoing
   - Mike
   - Scott
   - Jason
-- LDL: Metadata Guidelines (goal: complete for LDC meeting, May 16)
   - Cara
+  - Owner TBD (have a meeting)
+- LDL: Metadata Guidelines 
+  - Timeline: (goal: complete for LDC meeting, May 16)
+  - Cara
+  - LDC (Owner)
   - Tracking: [Trello card on Product Backlog board](https://trello.com/c/Hpc7lw33)
-- Presentation: Digital Initiatives Symposium (presentation date 4/24)
+- Presentation: Digital Initiatives Symposium 
+  - Timeline: presentation date 4/24, afternoon
   - Mike
   - Cara
   - Tracking: [Google Drive folder](https://drive.google.com/drive/folders/1Nqq79kY6_JWg-b0VJcOKTdoiWTZKaXOQ)
-- Digital Projects: Pintado Papers (goal was March 2018; complete ASAP)
-  - Cara
+- Digital Projects: Pintado Papers 
+  - Timeline: one week (goal was March 2018; complete ASAP)
+  - Cara (Owner)
   - Gabe
   - Jenny
   - Kenny
@@ -58,7 +82,8 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
     - Project history document: R:\DigitalServices\Projects\Surveys\"Pintado Papers Digital Collection Project History.docx"
     - [Trello card on Collection Management board](https://trello.com/c/Y8SQhuUs)
 - Digital Projects: LSU Photographs 2018 Addition
-  - Cara
+  - Timeline: 2018
+  - Cara (Owner)
   - Scott
   - Gabe
   - Michelle
@@ -68,21 +93,22 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
     - [Project history document on Cara's Google Drive](https://goo.gl/HvTQfo)
     - [Trello card on Collection Management board](https://trello.com/c/MszbRBhu)
 - Digital Projects: Sheet Music Database
+  - Timeline: 2018 
   - Cara
   - Scott
-  - Mikel
+  - Mikel (Owner)
   - Gabe
-  - Peripheral: Lois
+  - Peripheral: Lois (Owner)
   - Potential: Amanda Moak
   - Tracking: [Trello card on ETL board (old)](https://trello.com/c/RunWQ4jy)
 - Collection Management: Louisiana Purchase
+  - Timeline: Spring 2018
   - Cara
-  - Scott
-  - Christina R. = immediate stakeholder
+  - Scott (Owner)
+  - Christina R. = (Informed)
   - Tracking: [Trello card on Collection Management board](https://trello.com/c/zfjQlDI8)\
-- Digtial Collection Mangement: Digital Collection Development Policy
-  - Scott
 - LDL UI / Libraries Site UI / Digital Projects UI
+  - Timeline: Ongoing
   - Kyle
 - LDL/DSL Systems administration
   - Timeline: ongoing
@@ -90,6 +116,8 @@ Projects are qualified by *LDL*, or *DSL* for clarity; other qualifiers could be
 - LDL/DSL Release management
   - Timeline: ongoing
   - Jason
+  - Scott (Owner) 
 - LDL/DSL/Libraries Disaster recovery
   - Timeline: ongoing
   - Jason
+  - Scott (Owner)
